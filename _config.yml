@@ -1,0 +1,28 @@
+name: Ross Chartered
+favicon: null
+layout_spectrum: 0.9937908526044339
+typography_spectrum: 0.6497102270368487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.31791072408668697
+  lightness: 0.19730569305829704
+  saturation: 0.2810553575400263
+  rhythmicContrast: 0.7115558823570609
+purpose: []
